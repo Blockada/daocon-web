@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "air" # "plum", "default", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DAO Convention"
+title                    : "DAO Convention 2019"
 title_separator          : # "-"
-name                     : "DaoCon Home"
-description              : "Hompage of DAO Convention"
+name                     : "Blockada"
+description              : "DAO Convention is international event for those who build or provide services for Decentralized Autonomous Organizations."
 url                      : "https://daocon.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "blockchainsplit/daocon-web" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+masthead_title           : "DaoCon Zero" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tomislav Mamić"
-  avatar           : "/assets/images/tomislav-avatar.png"
+  name             : "Blockada"
+  avatar           : "/assets/images/blockada-logo.png"
   bio              : "Building DAOs."
   location         : "Berlin, Germany"
-  email            : "tomislav.mamic.st@gmail.com"
+  email            : "blockada@pm.me"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -120,7 +120,7 @@ author:
       url: "https://blockada.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tomislavmamic"
+      url: "https://twitter.com/blockada"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/blockada.io"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/daocon4"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -221,7 +221,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -271,6 +271,10 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -293,3 +297,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# head_scripts:
+#  - <link rel='stylesheet' href='https://widget.kyber.network/v0.5/widget.css'>
+
+# footer_scripts:
+#  - <script async src='https://widget.kyber.network/v0.5/widget.js'></script>
