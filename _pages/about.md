@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "About"
 excerpt: "DaoCon is the first convention for DAOs and related topics."
 permalink: /about
@@ -13,21 +13,9 @@ event:
   end_date: 2019-04-27T18:00+02:00
   location: "Faculty of Economics, Cvite Fiskovića 5, Split, Croatia"
 date: 2019-02-03T08:20:02-07:00
-author: "Tomislav Mamić"
-author_profile: true
-categories:
-  - DAO
-  - Croatia
-  - Ethereum
-tags:
-  - conference
-  - DaoCon2019
-sidebar:
-  - text: "<a href='https://blocksplit.org/'>BlockSplit</a>"
-  - text: "<a href='https://blockada.io/'>Blockada</a>"
 ---
 
-As Ethereum infrastructure slowly getting functional and easy to use we see more and more people starting to use it to run their businesses on it. This, in turn, creates a motivation for developers to build tools and services specialized for these businesses. Most extreme type of these businesses are joining other organizations in becoming Decentralized Autonomous Organizations - DAOs.
+As blockchain infrastructure is slowly getting more functional and easy to use we see more and more people starting to use it to run their businesses on it. This, in turn, creates a motivation for developers to build tools and services specialized for these businesses. Most extreme type of these businesses are joining other organizations in becoming Decentralized Autonomous Organizations - DAOs.
 
 ### Why?
 We hope to see and aid the growth of the industry by helping entrepreneurs start and grow their Ethereum based businesses and hopefully turn them into DAOs, as well as helping developers find users and partners for their services.
