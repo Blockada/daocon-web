@@ -24,7 +24,7 @@ We hope to see and aid the growth of the industry by helping entrepreneurs start
 As this nascent industry is growing, we are determined to bring together the pioneers in one place to meet and interact. Being able to show your work to live audience and talking directly to your users/service providers has an invaluable benefit.
 
 # What?
-**BuidlCon. One-day show and bazaar.**  
+**DaoCon. One-day show and bazaar.**  
 Here you can present your solution, find a solution, pitch your idea, network and sell your services directly to Ethereum based entrepreneurs.
 
 # Who?
@@ -48,7 +48,7 @@ Here you can present your solution, find a solution, pitch your idea, network an
   - etc.
 
 # When & where?
-April 28th 2019.  
+April 26th 2019.  
 Split, Croatia  
 ([BlockSplit Conference][blocksplit])
 
