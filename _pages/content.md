@@ -36,6 +36,9 @@ If you have a tool for DAOs and you want more time to present it to your users, 
 You are welcome to propose categories and nominate projects to present, we are open for [contributions and help](/contribute).  
 If you want to present your solution, please fill in this [form](https://denther.typeform.com/to/WY6GsX).
 
+### DAO awards
+The ceremony will be held at DaoCon where will will announce the best DAOs. Check out more details in our [DAO Awards announcement](/announcements/dao-awards/).
+
 ### Entertainment
 There will be numerous of entertainment activities during the week of DaoCon. Definitely check out BlockSplit page for updates dedicated to these. You are welcome to organize your own networking and entertainment events during DaoCon! Click here to lear [how to contribute](/contribute).
 
