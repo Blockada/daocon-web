@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Blockada"
   avatar           : "/assets/images/blockada-logo.png"
-  bio              : "Blockchain events."
+  bio              : "Building blockchain events."
   location         : "Berlin, Germany"
   email            : "blockada@pm.me"
   links:
@@ -117,16 +117,16 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://blockada.io"
+      url: "https://blockadaio"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/blockada"
+      url: "https://twitter.com/blockada_io"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/blockada.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/BlockchainSplit"
+      url: "https://github.com/blockada"
     # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/daocon4"
+      # url: "https://twitter.com/daocon4"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
